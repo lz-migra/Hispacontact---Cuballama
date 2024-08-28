@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1724460956145,
+      "path": "CAPACITACIÓN CUBALLAMA/Capacitación de Cuballama.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1724461005288,
+      "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Modulo 1.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1724460969354,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1724461070427,
+          "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Mi cuenta.md"
+        },
+        {
+          "type": "group",
+          "ctime": 1724461020482,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1724461104463,
+              "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Creación de cuentas nuevas desde CRM2.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1724461114968,
+              "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Referidos.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1724461123167,
+              "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Filtros.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1724461158401,
+              "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Ver intentos de Logueo de un Cte. CRM2.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1724461166883,
+              "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Autenticación cómo lo vemos desde el CRM2.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1724461176116,
+              "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Reseteo de contraseña desde CRM2.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1724461222977,
+              "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Proceso de validación de datos.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1724461230295,
+              "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/¿Cómo corregir, actualizar o agregar datos.md"
+            },
+            {
+              "type": "group",
+              "ctime": 1724461530247,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1724468437884,
+                  "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/➕📱Agregar Teléfono Adicional.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1724461572725,
+                  "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/📧 Email (agregar o actualizar).md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1724464372241,
+                  "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/📞 Número de teléfono (agregar o actualizar).md"
+                }
+              ],
+              "title": "Corregir, actualizar o agregar datos"
+            },
+            {
+              "type": "file",
+              "ctime": 1724471244808,
+              "path": "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Pasos para agregar un numero adicional.md"
+            }
+          ],
+          "title": "Mi Cuenta"
+        }
+      ],
+      "title": "Modulo 1"
+    },
+    {
+      "type": "file",
+      "ctime": 1724461281500,
+      "path": "CAPACITACIÓN CUBALLAMA/Modulo 2/Modulo 2.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1724461252502,
+      "items": [],
+      "title": "Modulo 2"
+    },
+    {
+      "type": "group",
+      "ctime": 1724681911735,
+      "items": [],
+      "title": "Modulo 3"
+    },
+    {
+      "type": "file",
+      "ctime": 1724682584336,
+      "path": "Speech/Speech Sugeridos.md"
+    }
+  ]
+}

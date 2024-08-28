@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "e4b9a447216118b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ae16bb94e1be37b",
+        "type": "split",
+        "dimension": 50.150375939849624,
+        "children": [
+          {
+            "id": "8ef8f01ef33c9b93",
+            "type": "tabs",
+            "dimension": 72.88732394366197,
+            "children": [
+              {
+                "id": "8f8d3792c03c5c93",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "d3a6038fc2ad3d5c",
+            "type": "tabs",
+            "dimension": 27.11267605633803,
+            "children": [
+              {
+                "id": "1f78c3f453db5dec",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "a3ea0c14c3944f7c",
+        "type": "tabs",
+        "dimension": 49.849624060150376,
+        "children": [
+          {
+            "id": "94ab5b9c06d14ac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speech/Speech Sugeridos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cad1b8e4e5e069f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7efff04c6fadef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fc5c01084f93959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2beec9b01685db4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "da491bac15cb5848",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7a52255e9aebd70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "24cf1a9644c2794a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de8c12d27a724e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3696e88ef782b5dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sin título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "deb231ae0dbe7a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sin título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e178cc0de081ea5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b04fbc6cff189705",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sin título.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "omnisearch:Omnisearch": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "5cad1b8e4e5e069f",
+  "lastOpenFiles": [
+    "README.md",
+    "Buffer Datos cliente.md",
+    "Sin título.md",
+    "Hispacontact---Cuballama",
+    "literate-succotash",
+    "Speech/Speech Sugeridos.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Proceso de validación de datos.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/📞 Número de teléfono (agregar o actualizar).md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Mi cuenta.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Reseteo de contraseña desde CRM2.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Autenticación cómo lo vemos desde el CRM2.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Ver intentos de Logueo de un Cte. CRM2.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Filtros.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Referidos.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Creación de cuentas nuevas desde CRM2.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/¿Cómo corregir, actualizar o agregar datos.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/➕📱Agregar Teléfono Adicional.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 2/Modulo 2.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Nombre del cliente (agregar o actualizar).md",
+    "CAPACITACIÓN CUBALLAMA/Capacitación de Cuballama.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/Pasos para agregar un numero adicional.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Unificación de Cuentas.md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta/📧 Email (agregar o actualizar).md",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Modulo 1.md",
+    "Escusha de audio.md",
+    "Sin nombre",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Unificar Cuentas.md",
+    "Sin título.canvas",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/Mi cuenta",
+    "Logueo",
+    "Speech",
+    "CAPACITACIÓN CUBALLAMA/Modulo 1/open.url",
+    "CAPACITACIÓN CUBALLAMA",
+    "Modulo 2/Pagos/Pagos.md",
+    "Modulo 1/Mi Cuenta/Pasos para registrar una cuenta Cuballama desde CMR2.md",
+    "Modulo 2/Pagos",
+    "Modulo 2/Pagos/Limite de pagos",
+    "Mi Cuenta/Mi cuenta.canvas",
+    "mi.canvas"
+  ]
+}
